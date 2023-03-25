@@ -1,0 +1,5 @@
+# Project exclude paths
+/netty-adv/target/
+/netty-basic/target/
+/netty-http/target/
+/out/
